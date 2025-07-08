@@ -12,7 +12,7 @@ It helps you manage your daily tasks effectively with a clean user interface and
 - 🗑️ Delete individual tasks
 - ♻️ Clear all tasks
 - 💾 Persistent data with browser `localStorage`
-- 📱 Responsive design for mobile and desktop
+- 📱 Responsive design for mobile and desktop.
 
 ---
 
