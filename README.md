@@ -7,7 +7,7 @@ It helps you manage your daily tasks effectively with a clean user interface and
 
 ## 🚀 Features
 
-- ✅ Add new tasks
+- ✅ Add new tasks 
 - ✏️ Mark tasks as completed
 - 🗑️ Delete individual tasks
 - ♻️ Clear all tasks
