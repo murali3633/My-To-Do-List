@@ -5,7 +5,7 @@ It helps you manage your daily tasks effectively with a clean user interface and
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - ✅ Add new tasks 
 - ✏️ Mark tasks as completed
