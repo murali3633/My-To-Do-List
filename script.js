@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
     
-    // Function to delete a task
+    // Function to delete a task 
     function deleteTask(id) {
         let tasks = getTasks();
         tasks = tasks.filter(task => task.id !== id);
