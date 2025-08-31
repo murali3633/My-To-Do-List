@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Load tasks from localStorage
     loadTasks();
-    
+     
     // Add task when button is clicked
     addButton.addEventListener('click', addTask);
     
