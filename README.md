@@ -4,7 +4,7 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 It helps you manage your daily tasks effectively with a clean user interface and persistent data storage using `localStorage`
  
 --- 
-## 🚀 Features
+## 🚀 Features 
 - ✅ Add new tasks 
 - ✏️ Mark tasks as completed
 - 🗑️ Delete individual tasks
