@@ -1,7 +1,7 @@
 # 📝 To-Do List.
 
 A simple and responsive To-Do List web application built using **HTML**, **CSS**, and **JavaScript**
-It helps you manage your daily tasks effectively with a clean user interface and persistent data storage using `localStorage`
+It helps you manage your daily tasks effectively with a clean user interface and persistent data storage using `localStorage` 
  
 ---
 ## 🚀 Features 
