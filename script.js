@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const todoList = document.getElementById('todo-list');
     const clearAllButton = document.getElementById('clear-all');
     
-    // Load tasks from localStorage
-    loadTasks();
+    // Load tasks from localStorage 
+    loadTasks(); 
      
     // Add task when button is clicked
     addButton.addEventListener('click', addTask);
