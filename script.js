@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const clearAllButton = document.getElementById('clear-all');
     
     // Load tasks from localStorage 
-    loadTasks(); 
+    loadTasks();
      
     // Add task when button is clicked
     addButton.addEventListener('click', addTask);
